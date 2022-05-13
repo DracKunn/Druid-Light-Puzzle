@@ -1,2 +1,4 @@
-package puzzle.eagle;public class Eagle {
+package puzzle.eagle;
+
+public class Eagle {
 }

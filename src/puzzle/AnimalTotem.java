@@ -1,4 +1,4 @@
-package Puzzle;
+package puzzle;
 
 public class AnimalTotem {
 

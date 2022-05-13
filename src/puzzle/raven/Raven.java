@@ -1,2 +1,4 @@
-package puzzle.raven;public class Raven {
+package puzzle.raven;
+
+public class Raven {
 }
